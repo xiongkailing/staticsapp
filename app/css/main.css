@@ -1,0 +1,4 @@
+.warp{text-align:center;}
+.chart-warp{width:90%;height:100%;background-color:#999;position:absolute;top:0;left:0; min-width:450px;}
+.chart-ctl{width:10%;height:100%;background-color:#666;position:absolute;top:0;right:0;}
+.chart-ctl .ctlBtn{ width:96%;height:40px; background-color:#0cf; border:solid 1px transparent; border-radius:4px; display:block; margin-top:50px; margin-left:2%;line-height:40px;}
